@@ -8,3 +8,6 @@ pip install -r requirements.txt
 python3 train.py
 
 ```
+
+# Acknowledgments
+This repository includes some functions from the [neural-astar](https://github.com/omron-sinicx/neural-astar) repository
