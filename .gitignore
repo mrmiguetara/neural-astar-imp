@@ -1,4 +1,4 @@
 .history
 .vscode
 env
-*__pychache__/*
+*__pychache__*
