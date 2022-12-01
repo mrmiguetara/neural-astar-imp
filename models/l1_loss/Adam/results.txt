@@ -1,0 +1,5 @@
+Training time: 743.434647321701
+Testing time: 0.0
+Path optimality Ratio: 0.62
+Reduction Ratio of Node Explored: 0.41116124391555786
+Harmonic Mean: 0.4944328013330985
